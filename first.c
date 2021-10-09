@@ -1,3 +1,4 @@
+/* program to convert celcius to fareniet */
 #include <stdio.h>
 int main()
 {
